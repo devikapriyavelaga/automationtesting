@@ -1,1 +1,1 @@
-test commit.login
+test commit.login test
